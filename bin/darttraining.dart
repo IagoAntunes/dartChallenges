@@ -1,5 +1,5 @@
-import 'package:darttraining/DescendingOrder.dart';
+import 'package:darttraining/sequence_sum.dart';
 
 void main(List<String> arguments) {
-  descendingOrder(42145);
+  SequenceSum.showSequence(6);
 }
